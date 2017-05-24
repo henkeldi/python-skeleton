@@ -1,0 +1,419 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"if",
+				"if\tIf Condition"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 175,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tests/skeleton_tests.py",
+			"settings":
+			{
+				"buffer_size": 142,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 92.0,
+		"last_filter": "project",
+		"selected_items":
+		[
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"tasks",
+				"Tasks: New document"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"gist",
+				"Gist: Open Gist"
+			],
+			[
+				"syn mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"title",
+				"Convert Case: Title Case"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"new ",
+				"Tasks: New document"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"block",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"gist in",
+				"Gist: Insert Gist"
+			],
+			[
+				"gist publ",
+				"Gist: Create Public Gist"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"linter enable",
+				"SublimeLinter: Enable Inline Tooltips"
+			],
+			[
+				"linter",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"f",
+				"Fetch: File"
+			],
+			[
+				"",
+				"Install Package Control"
+			],
+			[
+				"snippet",
+				"Snippet: While Loop"
+			],
+			[
+				"package control instal",
+				"Package Control: Install Package"
+			],
+			[
+				"snippe",
+				"Snippet: if __name__ == '__main__'"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/media/hdd0/projects/python-skeleton"
+	],
+	"file_history":
+	[
+		"/media/hdd0/projects/python-skeleton/.gitignore",
+		"/media/hdd0/projects/python-skeleton/skeleton.todo",
+		"/media/hdd0/projects/ai/main.py",
+		"/tmp/my_job.todo",
+		"/home/dimitri/.config/sublime-text-3/Packages/User/MarkdownPreview.sublime-settings",
+		"/home/dimitri/.config/sublime-text-3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/media/hdd0/projects/ai/README.md",
+		"/media/hdd0/projects/ai/pg10.txt",
+		"/media/hdd0/projects/ai/my_job.todo",
+		"/media/hdd0/projects/ai/main2.py",
+		"/home/dimitri/.config/sublime-text-3/Packages/Gist/Gist.sublime-settings",
+		"/home/dimitri/.config/sublime-text-3/Packages/User/Gist.sublime-settings",
+		"/home/dimitri/.config/sublime-text-3/Packages/User/coding.sublime-snippet",
+		"/home/dimitri/.config/sublime-text-3/Packages/User/numpy.sublime-snippet",
+		"/home/dimitri/.config/sublime-text-3/Packages/User/tensorflow.sublime-snippet",
+		"/media/hdd0/projects/ai/bla.html",
+		"/media/hdd0/projects/ai/index.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 108.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"2 Kings",
+			"2 King",
+			"King",
+			"cook",
+			"cook(.|\\n)?son",
+			"cook(.|\\n)son",
+			"cook(.|\\n)+son",
+			"cook.+",
+			"cook.+son",
+			"cook my",
+			"Hello",
+			"Blablub",
+			"Hello",
+			"main"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 175,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								72,
+								72
+							]
+						],
+						"settings":
+						{
+							"parser": "markdown",
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"target": "disk"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "tests/skeleton_tests.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 142,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								126,
+								126
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 282.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 124.0
+	},
+	"pinned_build_system": "",
+	"project": "python-skeleton.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"main.py",
+				"/media/hdd0/projects/ai/main.py"
+			],
+			[
+				"",
+				"/media/hdd0/projects/ai/main.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/media/hdd0/projects/ai/ai.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 190.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
